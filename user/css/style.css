@@ -6,8 +6,8 @@
 	  Support:
 	  Description:
 	  Version:
-	  
-------------------------------------------------- 
+
+-------------------------------------------------
 */
 /* CSS Index
 -------------------------------------------------
@@ -485,8 +485,8 @@ input:focus::-moz-placeholder {
   color: #fff;
   cursor: pointer;
   display: inline-block;
-  font-size: 18px;
-  font-weight: 400;
+  font-size: 16px;
+  font-weight: 600;
   letter-spacing: 1px;
   line-height: 0;
   margin-bottom: 0;
@@ -535,7 +535,7 @@ input:focus::-moz-placeholder {
 @media (min-width: 1200px) and (max-width: 1400px) {
   /* line 281, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
   .header-btn {
-    padding: 25px 21px !important;
+    padding: 20px 20px !important;
   }
 }
 
@@ -2696,15 +2696,14 @@ input:focus::-moz-placeholder {
 
 /* line 778, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
 .section-padding30 {
-  padding-top: 200px;
+  /*padding-top: 200px;*/
   padding-bottom: 170px;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   /* line 778, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
   .section-padding30 {
-    padding-top: 200px;
-    padding-bottom: 170px;
+    padding-bottom: 70px;
   }
 }
 
@@ -3410,7 +3409,7 @@ input:focus {
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   /* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
   .header-area .header-top {
-    padding: 13px 10px;
+    padding: 10px 10px;
   }
 }
 
@@ -3935,14 +3934,15 @@ input:focus {
 
 /* line 34, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_h1-hero.scss */
 .slider-area {
-  margin-top: -1px;
+  margin-top: -30px;
+  margin-bottom: -140px;
 }
 
 /* line 36, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_h1-hero.scss */
 .slider-area .hero__img {
   position: relative;
   bottom: -36px;
-  left: -114px;
+  left: -50px;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -4010,8 +4010,8 @@ input:focus {
   color: #1f2022;
   font-family: "Playfair Display", serif;
   text-transform: uppercase;
-  font-size: 100px;
-  font-weight: 700;
+  font-size: 80px;
+  font-weight: 600;
   line-height: 1.1;
   text-transform: capitalize;
   margin-bottom: 13px;
