@@ -691,6 +691,7 @@ input:focus::-moz-placeholder {
   border-radius: 50%;
   line-height: 48px;
   border: 2px solid transparent;
+  padding-top: 12px;
 }
 
 @media (max-width: 767px) {
