@@ -9403,12 +9403,18 @@ input:focus {
 
 /* line 6, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_product_list.scss */
 .product_sidebar .single_sedebar input {
-  background-color: #F4EDF2;
   border-radius: 50px;
-  border: 1px solid #F4EDF2;
+  border: 1px solid #2577fd;
   padding: 13px 25px;
   width: 100%;
   line-height: 22px;
+  color: #2577fd;
+}
+
+.product_sidebar .single_sedebar input::placeholder {
+  color: #2577fd;
+  font-size: 14px;
+  letter-spacing: 1px;
 }
 
 /* line 14, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_product_list.scss */
@@ -9421,32 +9427,45 @@ input:focus {
   position: absolute;
   right: 20px;
   top: 17px;
+  color: #2577fd;
 }
 
 /* line 25, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_product_list.scss */
 .select_option .select_option_list {
-  background-color: #F4EDF2;
+  background-color: #2577fd;
   border-radius: 50px;
-  border: 1px solid #F4EDF2;
+  border: 1px solid #2577fd;
   padding: 13px 25px;
   width: 100%;
   line-height: 22px;
-  color: #795376;
+  color: #fff;
 }
 
 /* line 34, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_product_list.scss */
 .select_option .select_option_dropdown {
-  background-color: #F4EDF2;
   border-radius: 10px;
-  border: 1px solid #F4EDF2;
+  border: 1px solid #2577fd;
   padding: 13px 25px;
   width: 100%;
   margin-top: 10px;
+  color: #fff;
 }
 
 /* line 41, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_product_list.scss */
 .select_option .select_option_dropdown a {
-  color: #795376;
+  display: inline-block;
+  color: #2577fd;
+  width: 100%;
+}
+
+.select_option .select_option_dropdown a:hover {
+  color: #fff;
+  background-color: #2577fd;
+  border: 1px solid #2577fd;
+
+  border-radius: 10px;
+  padding: 5px 20px;
+  margin-top: 10px;
 }
 
 /************* our offer *****************/
