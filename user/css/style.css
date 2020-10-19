@@ -9461,11 +9461,9 @@ input:focus {
 .select_option .select_option_dropdown a:hover {
   color: #fff;
   background-color: #2577fd;
-  border: 1px solid #2577fd;
-
-  border-radius: 10px;
-  padding: 5px 20px;
-  margin-top: 10px;
+  border: 0;
+  border-radius: 7px;
+  text-align: center;
 }
 
 /************* our offer *****************/
