@@ -8982,7 +8982,7 @@ del {
 .card_area .product_count_area {
   display: flex;
   align-items: center;
-  justify-content: center;
+  /*justify-content: center;*/
 }
 
 /* line 168, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_single_product.scss */
@@ -8995,6 +8995,7 @@ del {
 .card_area .product_count {
   border: 1px solid #828bb2;
   margin: 0 35px;
+  height: 52px;
 }
 
 @media (max-width: 991px) {
