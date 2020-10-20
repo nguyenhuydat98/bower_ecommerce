@@ -8975,7 +8975,7 @@ del {
 
 /* line 162, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_single_product.scss */
 .card_area {
-  margin-top: 60px;
+  margin-top: 10px;
 }
 
 /* line 164, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_single_product.scss */
@@ -9023,9 +9023,9 @@ del {
 
 /* line 189, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_single_product.scss */
 .card_area .product_count input {
-  background-color: #828bb2;
+  background-color: #58ACFA;
   color: #fff;
-  border: 1px solid #828bb2;
+  border: 1px solid #58ACFA;
   color: #fff;
 }
 
