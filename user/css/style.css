@@ -296,12 +296,12 @@ ul {
 
 /* line 80, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
 a {
-  color: #635c5c;
+  /*color: #635c5c;*/
 }
 
 /* line 83, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
 a:hover {
-  color: #fff;
+  /*color: #fff;*/
 }
 
 /* line 86, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
@@ -315,7 +315,7 @@ a:hover,
 /* line 92, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_common.scss */
 a,
 button {
-  color: #fff;
+  /*color: #fff;*/
   outline: medium none;
 }
 
